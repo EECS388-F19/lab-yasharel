@@ -1,0 +1,10 @@
+import random
+print("Jonathan Yasharel")
+number1 = random.randint(0,100)
+number2 = random.randint(0,100)
+print(number1)
+print(number2)
+string1 = "Sum = " +  str(number1 +number2)
+print(string1)
+string2 = "Average = " +  str((number1 +number2)/2)
+print(string2)
